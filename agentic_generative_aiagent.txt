@@ -1,0 +1,20 @@
+1. Agentic AI
+Agentic AI refers to AI systems that exhibit agency—the ability to autonomously perceive their environment, make decisions, and act upon those decisions to achieve specific goals. These systems can plan, learn from interactions, and adapt their behavior dynamically without constant human input.
+
+Key feature: Autonomy and goal-oriented behavior
+Examples: Autonomous robots, self-driving cars, and AI-powered digital assistants that proactively perform tasks
+2. Generative AI
+Generative AI focuses on creating new content based on patterns learned from existing data. It can produce text, images, music, code, and more. Unlike agentic AI, generative AI primarily generates rather than acts in the environment.
+
+Key feature: Content creation through learned data patterns
+Examples: ChatGPT (text generation), DALL·E (image generation), and music composition AI
+3. AI Agent
+An AI Agent is a broad term that refers to any AI system that perceives its environment through sensors and acts upon it through actuators to achieve objectives. It can be either simple (reactive agent) or complex (learning and planning agent). Essentially, an AI Agent is the embodiment of agentic AI principles.
+
+Key feature: Interaction with an environment to perform tasks
+Examples: Chatbots responding to user queries, game AI characters, and recommendation systems
+Summary Table
+Concept	Focus	Key Feature	Example
+Agentic AI	Autonomous decision-making	Agency and goal orientation	Self-driving cars
+Generative AI	Content creation	Data-driven generation	GPT-4, DALL·E
+AI Agent	Environment interaction	Perceives & acts	Chatbots, gaming AI
